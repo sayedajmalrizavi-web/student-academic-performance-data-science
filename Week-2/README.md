@@ -1,41 +1,36 @@
-# Week 2 — Exploratory Data Analysis & Visualization Framework
+## 📊 Week 2 — Exploratory Data Analysis & Visualization
 
-This folder contains the Week 2 work for the Virtual Data Science Explorer Internship at YuvaIntern.
+**Status: Completed**
 
-## Project
+Week 2 focuses on designing an Exploratory Data Analysis (EDA) and Visualization Framework for the Student Academic Performance project.
 
-**Student Academic Performance Prediction and Analysis Using Python**
+The framework covers:
 
-## Objective
-
-The objective of Week 2 is to design a comprehensive Exploratory Data Analysis (EDA) and visualization framework that can be applied to the project dataset during the technical implementation phase.
-
-## Topics Covered
-
-* Introduction to Exploratory Data Analysis
-* Data types and dataset profiling
+* Data profiling and understanding
+* Numerical and categorical data analysis
 * Univariate analysis
 * Bivariate analysis
 * Multivariate analysis
-* Missing-data analysis
-* Outlier detection and handling
-* Visualization strategies
-* Python libraries and tools
-* Reporting and documentation
-* EDA workflow and visualization planning
+* Missing-value analysis
+* Outlier detection
+* Data visualization strategies
+* Statistical and graphical exploration
+* Python data science libraries
+* EDA reporting and documentation
 
-## Planned Tools
+### Planned Visualization Techniques
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Plotly
-* Jupyter Notebook
+* Histograms
+* Bar charts
+* Box plots
+* Scatter plots
+* Line charts
+* Correlation heatmaps
+* Pair plots
+* Interactive visualizations
 
-## Status
+### Planned Libraries
 
-**Week 2 — Completed**
+Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, and Jupyter Notebook.
 
-This week's work focuses on planning and framework design. No actual dataset is required according to the internship task instructions.
+The Week 2 task is a planning and framework-design task. The actual EDA will be performed during the technical implementation phase when a dataset is available.
